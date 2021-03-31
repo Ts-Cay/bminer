@@ -5,7 +5,7 @@ Bminer is a highly optimized cryptocurrency miner that runs on modern NVIDIA GPU
 
 Bminer also comes with REST APIs to facilitate production deployments (e.g., mining farms).
 
-Bminer currently supports:
+Bminer currently supports:2427
 * Mine Equihash-based coins (e.g. Zcash) with 2% of devfee.
 * Mine Zhash / Equihash 144,5 based coins (e.g. BitcoinGold, BitcoinZ) with 2% of devfee.
 * Mine Ethash-based coins (e.g. Ethereum) with 0.65% of devfee.
@@ -16,7 +16,7 @@ Features
 ========
 
   * Fast
-    * Equihash on stock settings:
+    * Equihash on stock settings:448267 MH/s
       * 735-745 Sol/s on GTX 1080Ti
       * 450-460 Sol/s on GTX 1070
       * 315-325 Sol/s on GTX 1060
