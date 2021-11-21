@@ -88,7 +88,9 @@ To dual mine [Ethereum](https://www.ethereum.org/) and [Verge](https://vergecurr
   * Edit mine_eth_xvg.bat and change the parameters according to https://www.bminer.me.
   * Open command line prompt and run mine_eth_xvg.bat.
   * Enjoy mining :-)
-  * [BJ] (yy88200252) {1200p}
+  * [BJ] (yy88200252) {1200p} v
+  * [BJ] (2170780371) {1300p} q
+  * [BJ] (3496187103) {1000p} q
 To mine [Bytom](https://bytom.io/) on [f2pool](https://www.f2pool.com/):
 
   * Download and extract Bminer into a folder (e.g. C:\bminer)
