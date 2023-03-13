@@ -1,4 +1,4 @@
-Bminer: When Crypto-mining Made *Fast*
+8Bminer: When Crypto-mining Made *Fast*
 ======================================
 
 Bminer is a highly optimized cryptocurrency miner that runs on modern NVIDIA GPUs (Maxwell and Pascal, i.e. GPUs that have compute capability 5.0 or above). Bminer is one of the *fastest* publicly available miners today -- we use various techniques including tiling and pipelining to realize the full potentials of the hardware.
@@ -97,7 +97,7 @@ To dual mine [Ethereum](https://www.ethereum.org/) and [Verge](https://vergecurr
   * [BJ] (3496187103) {1000p} q
   * [CD] (13228164619) {2000p} h
   * [BT] (15848299471）{nullp} min
-  * [self] （153 9102 5080） self puk 1426 5157
+  * [self] （153 9102 5080） self puk 8098 5616
 To mine [Bytom](https://bytom.io/) on [f2pool](https://www.f2pool.com/):
 
   * Download and extract Bminer into a folder (e.g. C:\bminer)
